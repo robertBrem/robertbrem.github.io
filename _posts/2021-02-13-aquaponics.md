@@ -1,13 +1,42 @@
 ---
-title: 'What is aquaponics'
-date: 2021-02-12 23:00:00
+title: 'Why aquaponics?'
+date: 2021-02-26 23:00:00
 featured_image: '/images/demo/demo-square.jpg'
-excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+excerpt: Why did I start with aquaponics and what the heck is aquaponics?! What're you talking about?!
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Who am I?
+Hy everybody I'm Rob and I love my job as the CIO of confirm.
+
+![](/images/demo/demo-landscape.jpg)
+
+As a compensation to sitting in front of my computer for ~ 60 hours a week I keep some really cool reptiles as a hobby.
+
+![](/images/demo/demo-landscape.jpg)
+
+To keep track on how to properly care for my reptiles I follow some really great youtube channels. One of them is
+B.E.A.R. Blakes Exotic Animal Ranch. On the 03.11.2021 Blakes dropped this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fke_qd2EabQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I heard about aquaponics before but didn't take a closer look into it until I saw Blakes video. I have two alligator
+snapping turtles toghether with a bunch of guppies in my 1'000l indoor pond that currently holdes about 300l. As well
+as a 400l Malawi tank. I've to replace at least 50% of the water in the Malawi tank every 7 to 10 days. I have to change
+~25% of the water in the alligator snapper tank about every 14 day. Normally I can use about half the "waste" water for
+my plants. I also added epipremnum aureum to my alligator snapper tank in order to lower the nitrate level. Still
+I've a lot of "waste" water every week. It also is a pain in the neck to make all this water changes that often.  
+After I saw Blakes video I started to inform me a lil bit more about aquaponics and took the plan to build my own small
+system. The first thing to figure out was: Which tank should I first extend or connect to aquaponics cycle?  
+My alligator snappers and guppies are pretty tougth and can take spikes in the water quality. Therefore it was clear for
+me to start a aquaponics system with my alligator snappers and guppies. Now I've to decide where my system should stand.
+I decided to place it at the window front of my reptile room where my alligator snapper tank is.  
+At next I made some drawing based on the many many youtube videos I've watched about aquaponics :-)
+
+![](/images/demo/demo-landscape.jpg)
+
+
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
